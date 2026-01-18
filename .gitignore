@@ -1,0 +1,14 @@
+# Arquivos temporários do sistema
+*.swp
+*.tmp
+*.log
+
+# Pastas do sistema ou downloads
+Downloads/
+*.exe
+*.deb
+
+# Arquivos de cache
+__pycache__/
+*.pyc
+
